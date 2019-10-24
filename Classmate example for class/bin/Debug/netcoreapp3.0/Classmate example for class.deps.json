@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Classmate example for class/1.0.0": {
+        "runtime": {
+          "Classmate example for class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classmate example for class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

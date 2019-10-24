@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.exe
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.deps.json
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.dll
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.pdb
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.dll
+C:\Users\Holmes HQ\source\repos\Classmate example for class\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.pdb

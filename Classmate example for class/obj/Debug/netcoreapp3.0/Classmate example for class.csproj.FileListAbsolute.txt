@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\bin\Debug\netcoreapp3.0\Classmate example for class.exe
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\bin\Debug\netcoreapp3.0\Classmate example for class.deps.json
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\bin\Debug\netcoreapp3.0\Classmate example for class.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\bin\Debug\netcoreapp3.0\Classmate example for class.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\bin\Debug\netcoreapp3.0\Classmate example for class.dll
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\bin\Debug\netcoreapp3.0\Classmate example for class.pdb
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\obj\Debug\netcoreapp3.0\Classmate example for class.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\obj\Debug\netcoreapp3.0\Classmate example for class.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\obj\Debug\netcoreapp3.0\Classmate example for class.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\obj\Debug\netcoreapp3.0\Classmate example for class.dll
+C:\Users\Holmes HQ\source\repos\Classmate example for class\Classmate example for class\obj\Debug\netcoreapp3.0\Classmate example for class.pdb
